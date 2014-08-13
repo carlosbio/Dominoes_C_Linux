@@ -2,7 +2,7 @@
 //																																							//
 // Descrição e implementação de um programa em C direccionado para sistemas UNIX para a construção de um sistema de jogos de dominó online em tempo real	//
 //																																							//
-// Trabalho realizado por Carlos da Silva (21220319) e Feliciano Figueira (21150144) no âmbito da unidade curricular de Sistemas Operativos					//
+// Trabalho realizado por Carlos da Silva (21220319) no âmbito da unidade curricular de Sistemas Operativos													//
 //																																							//
 // Curso de Engenharia Informática, ano lectivo 2013/2014 - Instituto Superior de Engenharia de Coimbra														//
 //																																							//
